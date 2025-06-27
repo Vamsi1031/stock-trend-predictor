@@ -64,51 +64,24 @@ stock-trend-predictor/
 
 ---
 
-## 🧪 How to Run Locally
 
-### 1️⃣ Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/stock-trend-predictor.git
-cd stock-trend-predictor
-```
-
-### 2️⃣ Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Launch the app:
-
-```bash
-streamlit run app/main.py
-```
-
-> ⚠️ On first run, the model will train and cache for each stock.
-
----
-
-## 🌐 Deploying to Streamlit Cloud
-
-1. ✅ Push your project to GitHub
-2. 🌐 Go to: [https://streamlit.io/cloud](https://streamlit.io/cloud)
-3. 🔗 Sign in with GitHub and select your repo
-4. 🛠 Set the entry point to: `app/main.py`
-5. ✅ Deploy!
-
----
 
 ## 🖼 Example Output
+![Screenshot (3)](https://github.com/user-attachments/assets/3a6753fd-296f-4d96-89d2-4336a8438cd9)
 
-_Replace this image with your app screenshot_
+![Screenshot (4)](https://github.com/user-attachments/assets/4232e4e0-9493-458e-a04f-8cda4cf5113a)
 
-![Forecast Screenshot](https://via.placeholder.com/900x400.png?text=Stock+Forecast+Graph)
+![Screenshot (5)](https://github.com/user-attachments/assets/7375ed90-356f-4d9d-a0e4-c1902bf22c12)
 
----
+![Screenshot (6)](https://github.com/user-attachments/assets/168bb2c5-c401-4c20-8f43-ce20e2dfc2a4)
+
+![Screenshot (7)](https://github.com/user-attachments/assets/35d36181-394d-4ce7-870b-a519fe0aca23)
+
+
+
+
 
 ## 🧠 Technologies Used
-
 | Tool             | Purpose                            |
 |------------------|------------------------------------|
 | `Streamlit`      | Frontend + Interactivity           |
@@ -139,5 +112,5 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-Made with ❤️ by **Your Name**  
-🔗 [GitHub](https://github.com/yourusername) | ✉️ your.email@example.com
+Made with ❤️ by **KOLUSU VAMSI KRISHNA**  
+🔗 [GitHub](https://github.com/Vamsikolusu1031) | ✉️ kolusuvamsi9@gmail.com
